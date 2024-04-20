@@ -11,3 +11,7 @@ As of 03/24/24, an announcement was posted in OdysseyNodes LLC's discord claimin
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 As of today (03/24/24), CreateNow and OdysseyNodes LLC are unmerged, and data is being held hostage by OdysseyNodes LLC, which should rightfully belong to CreateNow. They have until 03/26/24 to return the data before we take action at the hosting provider level, and have their servers shut down. Let it be known, we are already in contact with their Hosting Provider, PlasmaRack Solutions LLC, and will at no hesitation, request the servers to be shut down immediately.
+
+
+
+-- I run my own hosting provider - https://rapidhost.cloud
